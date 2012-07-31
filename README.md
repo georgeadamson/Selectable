@@ -11,9 +11,7 @@ To enable this behaviour:
   - Add a class of "select" to the checkbox or radio button within the container element.
 
 Example:
-`
-  <section class="selectable">
-     <p>Click anywhere in this section to toggle the checkbox</p>
-     <input type="checkbox" class="select" value="ooh-magic" />
-  </section>
-`
+    <section class="selectable">
+      <p>Click anywhere in this section to toggle the checkbox</p>
+      <input type="checkbox" class="select" value="ooh-magic" />
+    </section>
