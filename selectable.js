@@ -11,6 +11,11 @@
  *      <p>Click anywhere in this section to toggle the checkbox</p>
  *      <input type="checkbox" class="select" value="ooh-magic" />
  *   </section>
+ *
+ * selectable.js
+ * Copyright 2012 George Adamson
+ * https://github.com/georgeadamson/Selectable
+ *
  */
 
 (function ($,document) {
