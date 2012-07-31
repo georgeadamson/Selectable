@@ -1,7 +1,7 @@
 Selectable
 ==========
 
-Auto wire-up checkboxes &amp; radio buttons that can be checked by clicking their container
+Auto wire-up checkboxes &amp; radio buttons so that they can be toggled by clicking their container element.
 
 A class of "selected" is automatically added to the container when the field is checked.
 
